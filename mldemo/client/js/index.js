@@ -1,5 +1,5 @@
  //REPLACE WITH YOUR PUBLIC KEY AVAILABLE IN: https://developers.mercadopago.com/panel/credentials
-window.Mercadopago.setPublishableKey("APP_USR-7372d24d-cbd4-4b6a-8f0d-8a71c76bdbad");
+window.Mercadopago.setPublishableKey("TEST-9609f420-512c-481d-a726-1701b868276a");
 
 window.Mercadopago.getIdentificationTypes();
   
